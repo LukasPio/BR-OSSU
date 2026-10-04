@@ -125,8 +125,6 @@ O resumo é preenchido manualmente: marque uma parte como **Em andamento** quand
 
 | Parte | Progresso |
 | --- | --- |
-| [Técnicas de estudo, organização e aprendizagem](#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem) | ⬜ |
-| [Git e GitHub](#git-e-github) | ⬜ |
 | [1ª Etapa](#1%C2%AA-etapa) | ⬜ |
 | [2ª Etapa](#2%C2%AA-etapa) | ⬜ |
 | [3ª Etapa](#3%C2%AA-etapa) | ⬜ |
