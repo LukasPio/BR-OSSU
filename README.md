@@ -125,7 +125,7 @@ O resumo é preenchido manualmente: marque uma parte como **Em andamento** quand
 
 | Parte | Progresso |
 | --- | --- |
-| [1ª Etapa](#1%C2%AA-etapa) | ⬜ |
+| [1ª Etapa](#1%C2%AA-etapa) | 🟡 |
 | [2ª Etapa](#2%C2%AA-etapa) | ⬜ |
 | [3ª Etapa](#3%C2%AA-etapa) | ⬜ |
 | [4ª Etapa](#4%C2%AA-etapa) | ⬜ |
@@ -150,7 +150,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 ### 1ª Etapa
 | Etapa | Aulas em Vídeo | Pré-requisitos | Leitura Recomendada | Progresso |
 |---|---|---|--- | --- |
-| 1 | [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | - | [Livros sobre Circuitos Digitais](extras/bibliography/01_digital_circuits.md) | ⬜ |
+| 1 | [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | - | [Livros sobre Circuitos Digitais](extras/bibliography/01_digital_circuits.md) | 🟡 |
 | 1 | [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS) | - | [Livros sobre Matemática Discreta](extras/bibliography/02_discrete_mathematics.md) | ⬜ |
 | 1 | [Linguagens de Programação](https://www.youtube.com/watch?v=xfDdxqbkiSQ&list=PLnzT8EWpmbka4KukGR184tifzqcuq_ZDv) | - | [Livros sobre Linguagens de Programação](extras/bibliography/03_programming_languages.md) | ⬜ |
 | 1 | [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | - | [Livros sobre Introdução a CC](extras/bibliography/04_intro_python.md) | ⬜ |
