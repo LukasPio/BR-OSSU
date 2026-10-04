@@ -110,32 +110,7 @@ Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso pe
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eXUBTY6HAu) Nele, você poderá encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/eXUBTY6HAu).
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues). Sinta-se à vontade para abrir discussões lá.
 - Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
-
-# Antes de começar
-
-Há tópicos que, apesar de não serem essenciais na formação de Ciência da Computação, podem ser muito úteis na sua jornada de aprendizado. Se desejar, você pode optar por ignorá-los momentaneamente e revisá-los posteriormente.
-
-## Técnicas de estudo, organização e aprendizagem
-
-Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, e como organizar seus estudos. Para isso, recomendamos os seguintes conteúdos abaixo.
-
-
-Curso | Conteúdos | Progresso
-:-- | --: | :--
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Memória; Técnicas de estudo; Recursos de estudo. | ⬜
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | Tempo; Técnica; Discussão. | ⬜
-
-¹ Disponível com legendas em Português.
-
-## Git e GitHub
-
-Conhecer ferramentas como o Git o ajudará a organizar seus projetos de estudo. O GitHub - ou outras plataformas como BitBucket ou GitLab - pode ser muito útil para trabalhar remotamente e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
-
-Curso | Conteúdos | Progresso
-:-- | --: | :--
-[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão. | ⬜
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão. | ⬜
-
+- 
 # Acompanhamento do progresso
 
 Faça um fork deste repositório (ou mantenha uma cópia local) para registrar seu próprio percurso. Edite a coluna **Progresso** de cada curso e o resumo abaixo sempre que avançar. Use um destes estados:
