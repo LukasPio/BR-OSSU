@@ -1,0 +1,669 @@
+{
+  "pdf_count": 132,
+  "pages": 920,
+  "python_snippets_syntax_checked": 28,
+  "long_code_lines": [],
+  "layout_flags": [],
+  "pdfs": [
+    {
+      "path": "etapa-01/circuitos-digitais/prova-01.pdf",
+      "pages": 7,
+      "sha256": "9340975497a826597e5ab2d8d700778e02b668b78efe69d9a091beae720c6b14"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-02.pdf",
+      "pages": 7,
+      "sha256": "7dca8eebd77dd8dff648769333e6b4d18fc4c48b90d2461d452473cee2167794"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-03.pdf",
+      "pages": 7,
+      "sha256": "bdef8b13c56695c09df3545b93f48977608ee18aec9f875adc3fb7d36e71b7d6"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-04.pdf",
+      "pages": 7,
+      "sha256": "6b22e633a9bad1ffaab38be0e91eec0f857c8b16a9d89ec2bff3dabb49fd755a"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-05.pdf",
+      "pages": 7,
+      "sha256": "0ec22bdc85ddf232b72d93bc639736eb2b9e91c6fc00c1d411335630dbd00bd4"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-06.pdf",
+      "pages": 7,
+      "sha256": "680e49e455c206c2b63933dd8edc6e3b40a7a4096fce937034d001102c397b59"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-07.pdf",
+      "pages": 7,
+      "sha256": "19eb12323042fc9d5b2c259ded3039808fa0f94db3829fb893135be714f81d12"
+    },
+    {
+      "path": "etapa-01/circuitos-digitais/prova-08.pdf",
+      "pages": 7,
+      "sha256": "12f6d37f51f41bbc6edb4cc560123bcc2614deb212f5e63d39a0116ae22385ce"
+    },
+    {
+      "path": "etapa-01/matematica-discreta/prova-01.pdf",
+      "pages": 7,
+      "sha256": "b33d695188d59e88194a13ceb7ab29e6e9e07051c9e1b878cb32d603b583c357"
+    },
+    {
+      "path": "etapa-01/matematica-discreta/prova-02.pdf",
+      "pages": 7,
+      "sha256": "19841f357bab22ee1b3164c864aee072f0a82233070bbb176b50d8589fb493fd"
+    },
+    {
+      "path": "etapa-01/matematica-discreta/prova-03.pdf",
+      "pages": 7,
+      "sha256": "d6a5d4d8464cb4fe061a40ec69dd0fb1c8c8a0c9054058bac05d4f2e8cb022c1"
+    },
+    {
+      "path": "etapa-01/matematica-discreta/prova-04.pdf",
+      "pages": 7,
+      "sha256": "0a44ece01612478dff438880e8dbe76e25755ec57b35cc6870ff905a2522f28d"
+    },
+    {
+      "path": "etapa-01/matematica-discreta/prova-05.pdf",
+      "pages": 7,
+      "sha256": "4b620bf0489213bd4b689c0c3f53b19a312001111296fb9121baa118c3dfcc81"
+    },
+    {
+      "path": "etapa-01/linguagens-de-programacao/prova-01.pdf",
+      "pages": 7,
+      "sha256": "cf3d766c7b65db478cafd41c3b0737e88baa55d88b21254e54ef06ee8f98da62"
+    },
+    {
+      "path": "etapa-01/linguagens-de-programacao/prova-02.pdf",
+      "pages": 7,
+      "sha256": "bbdd1042691a15ccf02ab40e3151d4e479f11cccc5720d4d2e6e577370ce1dfe"
+    },
+    {
+      "path": "etapa-01/linguagens-de-programacao/prova-03.pdf",
+      "pages": 7,
+      "sha256": "78db6244f79792a9e90efabf7effb3289707352bbd54f57d281cf19e2c50f672"
+    },
+    {
+      "path": "etapa-01/introducao-a-ciencia-da-computacao-com-python-i/prova-01.pdf",
+      "pages": 7,
+      "sha256": "15a11016de8642249c88a47cdabeb4231d0af68a8bd6091af647f6c2dfe6f53b"
+    },
+    {
+      "path": "etapa-01/introducao-a-ciencia-da-computacao-com-python-i/prova-02.pdf",
+      "pages": 7,
+      "sha256": "7807c935933ad68202fe43793a051ab95d0d6a9b3b1a1d92c577b06af553444f"
+    },
+    {
+      "path": "etapa-01/introducao-a-ciencia-da-computacao-com-python-i/prova-03.pdf",
+      "pages": 7,
+      "sha256": "b9e936374059eea6bf200dbe100245ac029138aa62a84031c822a5fa3a5922d8"
+    },
+    {
+      "path": "etapa-01/geometria-analitica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "997199972c9ee4a00f5c72836fefef0083471cf1360df788bf0390ae6b302a74"
+    },
+    {
+      "path": "etapa-01/geometria-analitica/prova-02.pdf",
+      "pages": 6,
+      "sha256": "2145478b15c91992ae2d148b4b4b3b54706b26f3107d0a6fa3ee1be857c91382"
+    },
+    {
+      "path": "etapa-01/geometria-analitica/prova-03.pdf",
+      "pages": 7,
+      "sha256": "38ea4d60994ac19644a720f64c0f11512a7212e33553718c92023b8553365b47"
+    },
+    {
+      "path": "etapa-01/geometria-analitica/prova-04.pdf",
+      "pages": 7,
+      "sha256": "ac0a48754373adbb25b282233b2182421c3181f2a21aa3466fd24f51f96bb66c"
+    },
+    {
+      "path": "etapa-02/calculo-i/prova-01.pdf",
+      "pages": 7,
+      "sha256": "72f5645007bff42fb1aa4a40206741fac770ed90120dcc2dc9eee1d2467b09d1"
+    },
+    {
+      "path": "etapa-02/calculo-i/prova-02.pdf",
+      "pages": 7,
+      "sha256": "f8cb5656dcfe7c4bbadf8370ca9b54339870da52d612f013b518d4af4386c9a3"
+    },
+    {
+      "path": "etapa-02/calculo-i/prova-03.pdf",
+      "pages": 7,
+      "sha256": "e3907d4734edf68789e5ec5977eed03efb5dfd409d056627ea4b6b627df223f6"
+    },
+    {
+      "path": "etapa-02/calculo-i/prova-04.pdf",
+      "pages": 6,
+      "sha256": "15c51bc6d9cc71411cf8255569c02c3c2577f3bd13f1e3fa6f4d5b65c1b1b6d3"
+    },
+    {
+      "path": "etapa-02/calculo-i/prova-05.pdf",
+      "pages": 7,
+      "sha256": "fb72cba57cb7bc41989c7cc2c68512bf4b0f467e5d34320c5698ec7b91b5c10c"
+    },
+    {
+      "path": "etapa-02/estruturas-de-dados/prova-01.pdf",
+      "pages": 7,
+      "sha256": "39f9fa2878f03aa194a7a3a855c1ecfc92947eaee1ed32e142088c5bdf7eb2c0"
+    },
+    {
+      "path": "etapa-02/estruturas-de-dados/prova-02.pdf",
+      "pages": 7,
+      "sha256": "29080b234d4a75fc5046093e221bbdbe10ec0890e42e1507f1e7d47f2d023659"
+    },
+    {
+      "path": "etapa-02/estruturas-de-dados/prova-03.pdf",
+      "pages": 7,
+      "sha256": "33c9202b8270c8549628cead135bf954e0821a73a4acc3ac660b18bcb5fa7591"
+    },
+    {
+      "path": "etapa-02/estruturas-de-dados/prova-04.pdf",
+      "pages": 7,
+      "sha256": "bd85b4838f3a61f0dcf3b72bd514440414c5bcbc0ec99bb0f45f0665ec61da05"
+    },
+    {
+      "path": "etapa-02/introducao-a-ciencia-da-computacao-com-python-ii/prova-01.pdf",
+      "pages": 7,
+      "sha256": "158e098439598d2fa71abbfffdd041ee6713917bd1f66b3970fcbd8cdf2a6d57"
+    },
+    {
+      "path": "etapa-02/introducao-a-ciencia-da-computacao-com-python-ii/prova-02.pdf",
+      "pages": 7,
+      "sha256": "258656dd414d776f3c7f4f8244fd01230c004ac711825dd85a97b23a4fcdafd8"
+    },
+    {
+      "path": "etapa-02/introducao-a-ciencia-da-computacao-com-python-ii/prova-03.pdf",
+      "pages": 7,
+      "sha256": "15d118fbd827c92d2540d108de7826901676026499ef37eadc33565fc5a087d0"
+    },
+    {
+      "path": "etapa-02/laboratorio-de-programacao-orientada-a-objetos-i/prova-01.pdf",
+      "pages": 7,
+      "sha256": "0cb1dfa77b3d0c7fb9899766d6df8eb19809fb961e98ddca2f4a64a30d6acf5e"
+    },
+    {
+      "path": "etapa-02/laboratorio-de-programacao-orientada-a-objetos-i/prova-02.pdf",
+      "pages": 7,
+      "sha256": "1f8a4eacec6205360a452205074f9c9be21fd2316dcd3b32aa82a3bbb3a9fd9f"
+    },
+    {
+      "path": "etapa-02/laboratorio-de-programacao-orientada-a-objetos-i/prova-03.pdf",
+      "pages": 7,
+      "sha256": "74e6ef47debfb90fb08242bbb718477c5e05e70681ed7ff3126279187da4d379"
+    },
+    {
+      "path": "etapa-03/algoritmos-em-grafos/prova-01.pdf",
+      "pages": 7,
+      "sha256": "6f3fe6048b5a7d6c82358018981503213ea4236170ef536283307d975bfea82f"
+    },
+    {
+      "path": "etapa-03/algoritmos-em-grafos/prova-02.pdf",
+      "pages": 7,
+      "sha256": "c9371d5ec50c61688c39c6135248c44dc229764e4837968616efa80678162c28"
+    },
+    {
+      "path": "etapa-03/algoritmos-em-grafos/prova-03.pdf",
+      "pages": 7,
+      "sha256": "d248d434482a8b8c511e40e1dae16f1f81b3492e8477bf8bdb16d4b7bccc9a1c"
+    },
+    {
+      "path": "etapa-03/arquitetura-de-computadores-i/prova-01.pdf",
+      "pages": 7,
+      "sha256": "02bbdfabe31e2b7b1f227dc58202e65ddaebe82b4f7a7c579c191119c0452bd5"
+    },
+    {
+      "path": "etapa-03/arquitetura-de-computadores-i/prova-02.pdf",
+      "pages": 7,
+      "sha256": "0fde3692517b5bd57ec507dde9841ccd85b17c10b67019cf8e9ed1993b8418f2"
+    },
+    {
+      "path": "etapa-03/arquitetura-de-computadores-i/prova-03.pdf",
+      "pages": 7,
+      "sha256": "de17f1f69064186822eca81d1622320d6867609e3cf9aed0eeeaef1819d47714"
+    },
+    {
+      "path": "etapa-03/arquitetura-de-computadores-i/prova-04.pdf",
+      "pages": 7,
+      "sha256": "f8997e8b2e7d81ea17751552da3b75ca41777679bf8cb4a15bff5343af18c6e3"
+    },
+    {
+      "path": "etapa-03/probabilidade-e-estatistica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "6deaaf1aac8ed94f4119cc179a5965c7860d0da69f3469d069787d74f29172eb"
+    },
+    {
+      "path": "etapa-03/probabilidade-e-estatistica/prova-02.pdf",
+      "pages": 7,
+      "sha256": "a365c40fe992b00fd52b49cd184b0f42683c8522747a236d936b2ce4a26895e6"
+    },
+    {
+      "path": "etapa-03/probabilidade-e-estatistica/prova-03.pdf",
+      "pages": 7,
+      "sha256": "71b2ddc093b50bef33db5ab9ba5c09a43513f6a72ee541fa03fddb781f933918"
+    },
+    {
+      "path": "etapa-03/probabilidade-e-estatistica/prova-04.pdf",
+      "pages": 7,
+      "sha256": "8df1e9143538eb1002567122dae1bf28fcc9458db6ee446906ca39544c54fa40"
+    },
+    {
+      "path": "etapa-03/calculo-ii/prova-01.pdf",
+      "pages": 7,
+      "sha256": "2ed8d0a95b6cbc153b7c4684487fe1a3aea1df8c202c2464ff0a1d75ae6c6fb1"
+    },
+    {
+      "path": "etapa-03/calculo-ii/prova-02.pdf",
+      "pages": 7,
+      "sha256": "9218dce7dc0ea07fbb55e80ddfe99df11f63ee5f660ccc4b6cab039430cc729e"
+    },
+    {
+      "path": "etapa-03/calculo-ii/prova-03.pdf",
+      "pages": 7,
+      "sha256": "7a3582b25e62716b89cdc9734be9690372c67a5c4ff28b5940888a9865ed5fea"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-01.pdf",
+      "pages": 7,
+      "sha256": "24a6fd30460f24a0e2ae8ef7ea9768327ed389ef06e7db6a5843b1a930daa6a7"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-02.pdf",
+      "pages": 7,
+      "sha256": "53b018d5d65c432db3f679e960e3e5478e5f8d53d98a969792f79f4f8a719a8d"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-03.pdf",
+      "pages": 7,
+      "sha256": "e04257a1883bf0ba1741ff145fe48adc056c9c33904f93e9babe377d282596ee"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-04.pdf",
+      "pages": 7,
+      "sha256": "05219c0a15ede74228b6befd782d11d4a445171408431b961e13e58f66dc138e"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-05.pdf",
+      "pages": 7,
+      "sha256": "2d9beea551a557dc39c92806e9a615908441a3fddd721e8ac02920725952f2b0"
+    },
+    {
+      "path": "etapa-03/programacao-funcional-em-haskell/prova-06.pdf",
+      "pages": 7,
+      "sha256": "64a299c4c3baadc8e5e9ad133fe6c8fd759eb556c2958b537b18399ccbcd5bb1"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-01.pdf",
+      "pages": 7,
+      "sha256": "d48a2ba753339a6ce9cd645bdec838c9b0c36626f71785e0bd5121b7c5397745"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-02.pdf",
+      "pages": 7,
+      "sha256": "3e774b498927b77766b20fd01bf8a3c16dcbaa93da850b52109f6ac1e6d8924b"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-03.pdf",
+      "pages": 7,
+      "sha256": "b6992ff8ec1fa47477fcb277b6c6383886ae3c51669a63e23e2bb3ee4d8da263"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-04.pdf",
+      "pages": 7,
+      "sha256": "d55c242eb60ff5c6cd410e6cd3bdea572cf9a0c3c6af1784123678bfacf6de5a"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-05.pdf",
+      "pages": 7,
+      "sha256": "718868f58c851a9833342004e4a49103c0aad7fcad803f278795c1905e30706d"
+    },
+    {
+      "path": "etapa-04/analise-de-algoritmos/prova-06.pdf",
+      "pages": 7,
+      "sha256": "506546e36e785c75f03ac3eb7124f297f97b271d0d100a75cfa609d1edcab141"
+    },
+    {
+      "path": "etapa-04/metodos-numericos-i/prova-01.pdf",
+      "pages": 7,
+      "sha256": "a3e6d213a1eb6915192b1d02bd6d9ce4b3e6c2ea2d8d622c4fc49f033e43eb62"
+    },
+    {
+      "path": "etapa-04/metodos-numericos-i/prova-02.pdf",
+      "pages": 7,
+      "sha256": "85e4485241c76f569957223448b88d4b0733800e6f39d1bd0e4f7b972d9faa47"
+    },
+    {
+      "path": "etapa-04/metodos-numericos-i/prova-03.pdf",
+      "pages": 7,
+      "sha256": "fbbc4c536f1e5c9fd10f7463a53d8eeda296223170b177eb22380d6a5c64285a"
+    },
+    {
+      "path": "etapa-04/banco-de-dados/prova-01.pdf",
+      "pages": 7,
+      "sha256": "948704e52ea052e9d281fc2e5eb710101111a942a5370f66d547d6abe42793e6"
+    },
+    {
+      "path": "etapa-04/banco-de-dados/prova-02.pdf",
+      "pages": 7,
+      "sha256": "75a065f9a8d4d4f5b2f4571712c66ff69b53b5b8525a5eb2f55fb1869183ea69"
+    },
+    {
+      "path": "etapa-04/banco-de-dados/prova-03.pdf",
+      "pages": 7,
+      "sha256": "10a1d341ded814b157593d0317a76980075203432947b3a80387a8459f0459cc"
+    },
+    {
+      "path": "etapa-04/banco-de-dados/prova-04.pdf",
+      "pages": 7,
+      "sha256": "565a62b6138de84bb91650d07f414fb41508475c61c606d392bedab853f7bb25"
+    },
+    {
+      "path": "etapa-04/arquitetura-de-computadores-ii/prova-01.pdf",
+      "pages": 7,
+      "sha256": "e2625b182f3ce896c760db1854607e1747db7f14712ca486299f8a3f14411c71"
+    },
+    {
+      "path": "etapa-04/arquitetura-de-computadores-ii/prova-02.pdf",
+      "pages": 7,
+      "sha256": "037e977e6b46880133c07835cbbc2a3c6774718e6705b27a84b15dbf14183b67"
+    },
+    {
+      "path": "etapa-04/arquitetura-de-computadores-ii/prova-03.pdf",
+      "pages": 7,
+      "sha256": "c1784a4ae2ba93e6ddc875b0aad149fca6739210a6f099d2440a78bd66de6899"
+    },
+    {
+      "path": "etapa-04/arquitetura-de-computadores-ii/prova-04.pdf",
+      "pages": 7,
+      "sha256": "c4144382e19cf234ae3f9dce8f819e69950677516d2db10eeb845928bca63da4"
+    },
+    {
+      "path": "etapa-04/programacao-logica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "70c8116a3630675250b70b4fd6c8d17d3ae533b0b3bda59c42da8d81be118b0a"
+    },
+    {
+      "path": "etapa-04/programacao-logica/prova-02.pdf",
+      "pages": 7,
+      "sha256": "0b1ee565c815c92d3f7eacc4af9cfe7360b2ba5162eb451c39799a35cc6d579d"
+    },
+    {
+      "path": "etapa-04/programacao-logica/prova-03.pdf",
+      "pages": 7,
+      "sha256": "5091f4ae133bd22c515139ba92ea7258076f6c823640fbd714a4cdb13bcc9b00"
+    },
+    {
+      "path": "etapa-05/redes-de-computadores/prova-01.pdf",
+      "pages": 7,
+      "sha256": "2a9b3eff2bcc863a80215af87956912015392c04a710268ce2625985c00c04a7"
+    },
+    {
+      "path": "etapa-05/redes-de-computadores/prova-02.pdf",
+      "pages": 7,
+      "sha256": "175dc24887b48515aab4ec0825d4a59e5ee34d198c4b415137a7707f399670bf"
+    },
+    {
+      "path": "etapa-05/redes-de-computadores/prova-03.pdf",
+      "pages": 7,
+      "sha256": "4716dfe0a75a415340cd3e8e58b263800b6aae167b32f807138a3ae4cde02190"
+    },
+    {
+      "path": "etapa-05/redes-de-computadores/prova-04.pdf",
+      "pages": 7,
+      "sha256": "8dcc345a3e814019e2fcdfc151073c95d80e33acfea205f2af2642b2336a0f89"
+    },
+    {
+      "path": "etapa-05/introducao-a-engenharia-de-software/prova-01.pdf",
+      "pages": 7,
+      "sha256": "457a3182faf1f28ab05da2e4d4ab5c44add14bdeab01302c897b0882db329bf7"
+    },
+    {
+      "path": "etapa-05/introducao-a-engenharia-de-software/prova-02.pdf",
+      "pages": 7,
+      "sha256": "a34841376d0e39836c6c5e8c1d9e9264a298488889b3841ac1e848a311e749e5"
+    },
+    {
+      "path": "etapa-05/introducao-a-engenharia-de-software/prova-03.pdf",
+      "pages": 7,
+      "sha256": "8843b1f5c6718fb8cbbcf680ef242f227b601e38eb942326c91619a914f2c0a0"
+    },
+    {
+      "path": "etapa-05/sistemas-operacionais/prova-01.pdf",
+      "pages": 7,
+      "sha256": "affb1f51ba7794b773fdd3f50404115a650116141faf9bd451d9138f056cdd99"
+    },
+    {
+      "path": "etapa-05/sistemas-operacionais/prova-02.pdf",
+      "pages": 7,
+      "sha256": "8c25a5f001ddca41bffcd15fd86782486bd66dc3f8b28e70d5acf91f0e906581"
+    },
+    {
+      "path": "etapa-05/sistemas-operacionais/prova-03.pdf",
+      "pages": 7,
+      "sha256": "badbf4cf58c14f4aebf7607bf662832801c1f385129e42c820b22515d24ecf3a"
+    },
+    {
+      "path": "etapa-05/sistemas-operacionais/prova-04.pdf",
+      "pages": 7,
+      "sha256": "eb85413815a8b4106d1122701d8ade8982cc3abcfdb5958d43da63c1bfb373d5"
+    },
+    {
+      "path": "etapa-05/programacao-matematica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "10e9ad80e7dcbf5e10033eb2c0ac903ee29731c40ed2c7fdce0c2a0d7f643e46"
+    },
+    {
+      "path": "etapa-05/programacao-matematica/prova-02.pdf",
+      "pages": 7,
+      "sha256": "aa56dd6b241c9ec5f3dc8d6f9704498351c2e84903b596134e10d8bd67ade701"
+    },
+    {
+      "path": "etapa-05/programacao-matematica/prova-03.pdf",
+      "pages": 7,
+      "sha256": "0698ac19dcbc43c0c18971e59d7344895ff44b7fea019d3f3313eb1b6a235ab0"
+    },
+    {
+      "path": "etapa-05/programacao-matematica/prova-04.pdf",
+      "pages": 7,
+      "sha256": "f80b849e1c1271bfc098dc62b4a37220f0ef87527ed2b7aea914348152c2ab14"
+    },
+    {
+      "path": "etapa-05/fundamentos-de-computacao-grafica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "f68366b6058d100638cf3d72f205a4770c4ff2a56257ff43db45ed31ffd3a26f"
+    },
+    {
+      "path": "etapa-05/fundamentos-de-computacao-grafica/prova-02.pdf",
+      "pages": 7,
+      "sha256": "b7ef6155f5ea888e58614d6de834f4a569215ff48d0f72a5f19fe24ce48f37fc"
+    },
+    {
+      "path": "etapa-05/fundamentos-de-computacao-grafica/prova-03.pdf",
+      "pages": 7,
+      "sha256": "c93866b34f76cb54608610e13550bf0a083097f0acbe5eab22bd629b37c95a05"
+    },
+    {
+      "path": "etapa-06/linguagens-formais-e-automatos/prova-01.pdf",
+      "pages": 7,
+      "sha256": "261765e22a58263acf39b9fe9dee653d97f4bc72c46da43a414648787d069d38"
+    },
+    {
+      "path": "etapa-06/linguagens-formais-e-automatos/prova-02.pdf",
+      "pages": 7,
+      "sha256": "314d93ed8a6d0e6fb829138ca0b5c632cfde98aa7e61d797f5db48c5876be355"
+    },
+    {
+      "path": "etapa-06/linguagens-formais-e-automatos/prova-03.pdf",
+      "pages": 7,
+      "sha256": "b2156339644eaae3e86c5e5402311ea3713fc5a39827de3980b3c6696220855d"
+    },
+    {
+      "path": "etapa-06/linguagens-formais-e-automatos/prova-04.pdf",
+      "pages": 7,
+      "sha256": "073ea12e4e9973a033bd7bcd9a445346f47eebf9915e07b5d4f350c99035606a"
+    },
+    {
+      "path": "etapa-06/linguagens-formais-e-automatos/prova-05.pdf",
+      "pages": 7,
+      "sha256": "1fac36d559cbe9757eb3f194e6431d279b8f852589038dd409aa8d848fbe49bf"
+    },
+    {
+      "path": "etapa-06/inteligencia-artificial/prova-01.pdf",
+      "pages": 7,
+      "sha256": "69d64c3dc1b5f928dbeb5ab63058279c2621312927a59a1e51f4920faee790a8"
+    },
+    {
+      "path": "etapa-06/inteligencia-artificial/prova-02.pdf",
+      "pages": 7,
+      "sha256": "dc29fd2be82d615f0ee63c58c42f34b2502f65bfb9308f2893124bce8aaf17ac"
+    },
+    {
+      "path": "etapa-06/inteligencia-artificial/prova-04.pdf",
+      "pages": 7,
+      "sha256": "729b65736ef88f5f262d2ba59512be09c73ed5b5730987bc34bcd7c152a9b228"
+    },
+    {
+      "path": "etapa-06/sistemas-distribuidos/prova-01.pdf",
+      "pages": 7,
+      "sha256": "f00cb0f2796f0cb5c6486ed7c82c0123ebd0e98a2d280cbf199b0aded1580a7c"
+    },
+    {
+      "path": "etapa-06/sistemas-distribuidos/prova-02.pdf",
+      "pages": 7,
+      "sha256": "8a72a2f9b0ae7dfb570db45e046155476a08f5e77ff5d678e24360ad44187c10"
+    },
+    {
+      "path": "etapa-06/sistemas-distribuidos/prova-03.pdf",
+      "pages": 7,
+      "sha256": "c04f83db64a45f03694fc4e538070f3f54a320aa463483beae00a9c13a3e67be"
+    },
+    {
+      "path": "etapa-06/sistemas-distribuidos/prova-04.pdf",
+      "pages": 7,
+      "sha256": "e7b9af88f63411ca2004c1dca164520251e881c04e8ad6056f06ad94a7e76bcc"
+    },
+    {
+      "path": "etapa-06/teoria-dos-grafos/prova-01.pdf",
+      "pages": 7,
+      "sha256": "364bd9a6979a233a7acd1926088e1d4bb56c3950ff2139b655e112fe695da13c"
+    },
+    {
+      "path": "etapa-06/teoria-dos-grafos/prova-02.pdf",
+      "pages": 7,
+      "sha256": "b64063bb05437c622cb72f37796ebabf921f9d6abb555ae20305f8313794fa1f"
+    },
+    {
+      "path": "etapa-06/teoria-dos-grafos/prova-03.pdf",
+      "pages": 7,
+      "sha256": "198e7bbf4004a29eb59b121e4d98dec6df0d55933dddcc19d17a3407145164d6"
+    },
+    {
+      "path": "etapa-06/teoria-dos-grafos/prova-04.pdf",
+      "pages": 7,
+      "sha256": "e4568e4ec3f027da43e0ffe783183b0b0f38d2f0f3530f84a6ae8f604c20f7d7"
+    },
+    {
+      "path": "etapa-06/calculo-iii/prova-01.pdf",
+      "pages": 6,
+      "sha256": "ba817d502a347175108a6d558a3b63a295b7c32421c8d6413a03de3d4ade778e"
+    },
+    {
+      "path": "etapa-06/calculo-iii/prova-02.pdf",
+      "pages": 7,
+      "sha256": "0b233e0e5ad5f14b5977fec5a99421724b0e6b7399da0a663f2b4f7efd9d0c89"
+    },
+    {
+      "path": "etapa-06/calculo-iii/prova-03.pdf",
+      "pages": 6,
+      "sha256": "849f8614c5fb0eb0575cd44aedca1127280c12b92a20952218e2eb125a14e274"
+    },
+    {
+      "path": "etapa-06/calculo-iii/prova-04.pdf",
+      "pages": 7,
+      "sha256": "43b1eb0890394a9f1b187ed63a17ed211fcc5ec54eaf3c17abb16c1c6e3b9c45"
+    },
+    {
+      "path": "etapa-07/teoria-da-computacao/prova-01.pdf",
+      "pages": 7,
+      "sha256": "ced6633deabe20a1c34814dcdb8672488ef0f6452906a4208f5b8eb5029b6890"
+    },
+    {
+      "path": "etapa-07/teoria-da-computacao/prova-02.pdf",
+      "pages": 7,
+      "sha256": "342cb7257603cd81693dd94f2296442ab792ae9f1f5a7d393351bb62161430bd"
+    },
+    {
+      "path": "etapa-07/teoria-da-computacao/prova-03.pdf",
+      "pages": 7,
+      "sha256": "4e22168bdf68ede5ef8134d6cca8681ce8c0ea5dc0b3dba6ba22763920025c99"
+    },
+    {
+      "path": "etapa-07/deep-learning/prova-01.pdf",
+      "pages": 7,
+      "sha256": "9150054ba141fdc6e83156efb1cfc7205354fa9454e4944baea66b6503e4fb99"
+    },
+    {
+      "path": "etapa-07/deep-learning/prova-02.pdf",
+      "pages": 7,
+      "sha256": "b4d64a1c77d4f68df73f82aac81211e43151bf8d9d55a2e458b507d3dd4cfee2"
+    },
+    {
+      "path": "etapa-07/deep-learning/prova-03.pdf",
+      "pages": 7,
+      "sha256": "41dd103d8fa7499a00c87dfeacc66609a893ec7d74de1783cec374ff916caef4"
+    },
+    {
+      "path": "etapa-07/deep-learning/prova-04.pdf",
+      "pages": 7,
+      "sha256": "3dc7c67c91e76b99b0e9a779745e481fbdf3d6d5906fab4aa10e95a9faddcb9a"
+    },
+    {
+      "path": "etapa-07/compiladores/prova-01.pdf",
+      "pages": 7,
+      "sha256": "516194e85903a01848f7d166f3284ec3171cbc17654ebf93f50bda2231d30cc9"
+    },
+    {
+      "path": "etapa-07/compiladores/prova-02.pdf",
+      "pages": 7,
+      "sha256": "9a8ce9ed5642b96f9132db1a91f17b9673b3a94f1f28f70229d34a75775efb14"
+    },
+    {
+      "path": "etapa-07/compiladores/prova-03.pdf",
+      "pages": 7,
+      "sha256": "826a907df5c16f3590f5bbaf4d1319969f407a69833a4ed1543c6b19a26b3917"
+    },
+    {
+      "path": "etapa-07/compiladores/prova-04.pdf",
+      "pages": 7,
+      "sha256": "d31c6c466aca32ee8a4ec9910fe76ddde9d615dbfc555e01a3996e7c61194350"
+    },
+    {
+      "path": "etapa-07/computacao-quantica/prova-01.pdf",
+      "pages": 7,
+      "sha256": "dc7f0d9b5b7f8fbacbc972934992cfedd346c7383b7f3ea96f1712246e84f26c"
+    },
+    {
+      "path": "etapa-07/computacao-quantica/prova-02.pdf",
+      "pages": 7,
+      "sha256": "c0a05c2cc59f268bee33df1b4b52c32a1e75b087823b7925158f1f39cd42f6e7"
+    },
+    {
+      "path": "etapa-07/metodologia-da-pesquisa/prova-01.pdf",
+      "pages": 7,
+      "sha256": "54aa4b427dcaec839916b509b8b198a29f7d192f6c6ab64b6f2633bc5d2ac03a"
+    },
+    {
+      "path": "etapa-07/metodologia-da-pesquisa/prova-02.pdf",
+      "pages": 7,
+      "sha256": "a3fdfa5b475d331be7f8d88d340147f2d00c6127d8b655c61b928649a9d96596"
+    },
+    {
+      "path": "etapa-07/metodologia-da-pesquisa/prova-03.pdf",
+      "pages": 7,
+      "sha256": "dd825363c4baf9e428a8c47413b50df15c3c78a8a37848458c844d1208f33a82"
+    }
+  ]
+}

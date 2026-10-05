@@ -59,6 +59,7 @@ SOFTWARE.
 - [Comunidade](#comunidade)
 - [Técnicas de estudo, organização e aprendizagem](#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
 - [Acompanhamento do progresso](#acompanhamento-do-progresso)
+- [Avaliações e checkpoints](#avaliações-e-checkpoints)
 - [Currículo](#curr%C3%ADculo)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Time](#time)
@@ -132,6 +133,14 @@ O resumo é preenchido manualmente: marque uma parte como **Em andamento** quand
 | [5ª Etapa](#5%C2%AA-etapa) | ⬜ |
 | [6ª Etapa](#6%C2%AA-etapa) | ⬜ |
 | [7ª Etapa](#7%C2%AA-etapa) | ⬜ |
+
+# Avaliações e checkpoints
+
+O [plano de avaliações](provas/README.md) acompanha as sete etapas obrigatórias com **132 provas em PDF**, cada uma com questões originais, gabarito, resoluções, duração sugerida e pontuação de 100 pontos. Consulte o mapa para saber exatamente após qual posição da playlist ou módulo realizar cada prova, antes de continuar para o próximo bloco.
+
+Conclua também os exercícios do curso. Após corrigir a prova, registre a nota e os conceitos a revisar em [progresso.csv](provas/progresso.csv): **≥80 pontos**, prossiga; **70–79**, revise os erros; **<70**, revise o bloco antes de avançar.
+
+O plano foi elaborado a partir do conteúdo publicamente verificável dos cursos vinculados nesta versão do currículo. Há pendências de fonte em Álgebra Linear I, Representação do Conhecimento em IA, palestras finais de Computação Quântica e itens ocultos de Engenharia de Software. Essas pendências não dispensam o conteúdo nem representam cobertura integral. Veja os inventários, as matrizes de cobertura e a [auditoria de fontes e validação](provas/fontes/auditoria.md).
 
 # Currículo
 
