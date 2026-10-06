@@ -1,0 +1,134 @@
+Etapa,Disciplina,Prova,Fazer após,Data,Tentativa,Nota / 100,Conceitos a revisar,Estado
+1,Circuitos Digitais,1,posição 8,,,,,pendente
+1,Circuitos Digitais,2,posição 18,,,,,pendente
+1,Circuitos Digitais,3,posição 24,,,,,pendente
+1,Circuitos Digitais,4,posição 34,,,,,pendente
+1,Circuitos Digitais,5,posição 53,,,,,pendente
+1,Circuitos Digitais,6,posição 67,,,,,pendente
+1,Circuitos Digitais,7,posição 86,,,,,pendente
+1,Circuitos Digitais,8,posição 93,,,,,pendente
+1,Matemática Discreta,1,posição 18,,,,,pendente
+1,Matemática Discreta,2,posição 57,,,,,pendente
+1,Matemática Discreta,3,posição 89,,,,,pendente
+1,Matemática Discreta,4,posição 96,,,,,pendente
+1,Matemática Discreta,5,posição 113,,,,,pendente
+1,Linguagens de Programação,1,posição 4,,,,,pendente
+1,Linguagens de Programação,2,posição 8,,,,,pendente
+1,Linguagens de Programação,3,posição 12,,,,,pendente
+1,Introdução à Ciência da Computação com Python I,1,módulo 3,,,,,pendente
+1,Introdução à Ciência da Computação com Python I,2,módulo 6,,,,,pendente
+1,Introdução à Ciência da Computação com Python I,3,módulo 9,,,,,pendente
+1,Geometria Analítica,1,posição 20,,,,,pendente
+1,Geometria Analítica,2,posição 33,,,,,pendente
+1,Geometria Analítica,3,posição 43,,,,,pendente
+1,Geometria Analítica,4,posição 55,,,,,pendente
+2,Cálculo I,1,posição 17,,,,,pendente
+2,Cálculo I,2,posição 36,,,,,pendente
+2,Cálculo I,3,posição 72,,,,,pendente
+2,Cálculo I,4,posição 84,,,,,pendente
+2,Cálculo I,5,posição 102,,,,,pendente
+2,Estruturas de Dados,1,posição 8,,,,,pendente
+2,Estruturas de Dados,2,posição 12,,,,,pendente
+2,Estruturas de Dados,3,posição 17,,,,,pendente
+2,Estruturas de Dados,4,posição 21,,,,,pendente
+2,Introdução à Ciência da Computação com Python II,1,módulo 3,,,,,pendente
+2,Introdução à Ciência da Computação com Python II,2,módulo 5,,,,,pendente
+2,Introdução à Ciência da Computação com Python II,3,módulo 6,,,,,pendente
+2,Laboratório de Programação Orientada a Objetos I,1,módulo 2,,,,,pendente
+2,Laboratório de Programação Orientada a Objetos I,2,módulo 4,,,,,pendente
+2,Laboratório de Programação Orientada a Objetos I,3,módulo 6,,,,,pendente
+3,Algoritmos em Grafos,1,posição 10,,,,,pendente
+3,Algoritmos em Grafos,2,posição 23,,,,,pendente
+3,Algoritmos em Grafos,3,posição 25,,,,,pendente
+3,Arquitetura de Computadores I,1,posição 21,,,,,pendente
+3,Arquitetura de Computadores I,2,posição 31,,,,,pendente
+3,Arquitetura de Computadores I,3,posição 37,,,,,pendente
+3,Arquitetura de Computadores I,4,posição 47,,,,,pendente
+3,Probabilidade e Estatística,1,posição 13,,,,,pendente
+3,Probabilidade e Estatística,2,posição 23,,,,,pendente
+3,Probabilidade e Estatística,3,posição 27,,,,,pendente
+3,Probabilidade e Estatística,4,posição 40,,,,,pendente
+3,Cálculo II,1,posição 21,,,,,pendente
+3,Cálculo II,2,posição 43,,,,,pendente
+3,Cálculo II,3,posição 70,,,,,pendente
+3,Programação Funcional em Haskell,1,posição 16,,,,,pendente
+3,Programação Funcional em Haskell,2,posição 27,,,,,pendente
+3,Programação Funcional em Haskell,3,posição 35,,,,,pendente
+3,Programação Funcional em Haskell,4,posição 44,,,,,pendente
+3,Programação Funcional em Haskell,5,posição 53,,,,,pendente
+3,Programação Funcional em Haskell,6,posição 62,,,,,pendente
+4,Análise de Algoritmos,1,posição 10,,,,,pendente
+4,Análise de Algoritmos,2,posição 23,,,,,pendente
+4,Análise de Algoritmos,3,posição 31,,,,,pendente
+4,Análise de Algoritmos,4,posição 45,,,,,pendente
+4,Análise de Algoritmos,5,posição 65,,,,,pendente
+4,Análise de Algoritmos,6,posição 74,,,,,pendente
+4,Métodos Numéricos I,1,posição 12,,,,,pendente
+4,Métodos Numéricos I,2,posição 20,,,,,pendente
+4,Métodos Numéricos I,3,posição 24,,,,,pendente
+4,Banco de Dados,1,posição 9,,,,,pendente
+4,Banco de Dados,2,posição 16,,,,,pendente
+4,Banco de Dados,3,posição 20,,,,,pendente
+4,Banco de Dados,4,posição 28,,,,,pendente
+4,Arquitetura de Computadores II,1,posição 10,,,,,pendente
+4,Arquitetura de Computadores II,2,posição 18,,,,,pendente
+4,Arquitetura de Computadores II,3,posição 30,,,,,pendente
+4,Arquitetura de Computadores II,4,posição 34,,,,,pendente
+4,Programação Lógica,1,posição 5,,,,,pendente
+4,Programação Lógica,2,posição 8,,,,,pendente
+4,Programação Lógica,3,posição 11,,,,,pendente
+5,Redes de Computadores,1,posição 2,,,,,pendente
+5,Redes de Computadores,2,posição 3,,,,,pendente
+5,Redes de Computadores,3,posição 5,,,,,pendente
+5,Redes de Computadores,4,posição 8,,,,,pendente
+5,Introdução à Engenharia de Software,1,posição 6,,,,,pendente
+5,Introdução à Engenharia de Software,2,posição 9,,,,,pendente
+5,Introdução à Engenharia de Software,3,posição 11,,,,,pendente
+5,Sistemas Operacionais,1,posição 8,,,,,pendente
+5,Sistemas Operacionais,2,posição 13,,,,,pendente
+5,Sistemas Operacionais,3,posição 18,,,,,pendente
+5,Sistemas Operacionais,4,posição 23,,,,,pendente
+5,Programação Matemática,1,posição 11,,,,,pendente
+5,Programação Matemática,2,posição 19,,,,,pendente
+5,Programação Matemática,3,posição 26,,,,,pendente
+5,Programação Matemática,4,posição 30,,,,,pendente
+5,Fundamentos de Computação Gráfica,1,posição 9,,,,,pendente
+5,Fundamentos de Computação Gráfica,2,posição 12,,,,,pendente
+5,Fundamentos de Computação Gráfica,3,posição 20,,,,,pendente
+6,Linguagens Formais e Autômatos,1,posição 14,,,,,pendente
+6,Linguagens Formais e Autômatos,2,posição 32,,,,,pendente
+6,Linguagens Formais e Autômatos,3,posição 46,,,,,pendente
+6,Linguagens Formais e Autômatos,4,posição 62,,,,,pendente
+6,Linguagens Formais e Autômatos,5,posição 68,,,,,pendente
+6,Inteligência Artificial,1,posição 10,,,,,pendente
+6,Inteligência Artificial,2,posição 17,,,,,pendente
+6,Inteligência Artificial,3,posição 21,,,,,pendente
+6,Inteligência Artificial,4,posição 30,,,,,pendente
+6,Sistemas Distribuídos,1,posição 7,,,,,pendente
+6,Sistemas Distribuídos,2,posição 11,,,,,pendente
+6,Sistemas Distribuídos,3,posição 16,,,,,pendente
+6,Sistemas Distribuídos,4,posição 22,,,,,pendente
+6,Teoria dos Grafos,1,posição 8,,,,,pendente
+6,Teoria dos Grafos,2,posição 12,,,,,pendente
+6,Teoria dos Grafos,3,posição 16,,,,,pendente
+6,Teoria dos Grafos,4,posição 20,,,,,pendente
+6,Cálculo III,1,posição 25,,,,,pendente
+6,Cálculo III,2,posição 54,,,,,pendente
+6,Cálculo III,3,posição 65,,,,,pendente
+6,Cálculo III,4,posição 90,,,,,pendente
+7,Teoria da Computação,1,posição 10,,,,,pendente
+7,Teoria da Computação,2,posição 15,,,,,pendente
+7,Teoria da Computação,3,posição 23,,,,,pendente
+7,Deep Learning,1,posição 12,,,,,pendente
+7,Deep Learning,2,posição 22,,,,,pendente
+7,Deep Learning,3,posição 27,,,,,pendente
+7,Deep Learning,4,posição 33,,,,,pendente
+7,Compiladores,1,posição 11,,,,,pendente
+7,Compiladores,2,posição 13,,,,,pendente
+7,Compiladores,3,posição 20,,,,,pendente
+7,Compiladores,4,posição 27,,,,,pendente
+7,Computação Quantica,1,posição 6,,,,,pendente
+7,Computação Quantica,2,posição 15,,,,,pendente
+7,Metodologia da Pesquisa,1,posição 7,,,,,pendente
+7,Metodologia da Pesquisa,2,posição 15,,,,,pendente
+7,Metodologia da Pesquisa,3,posição 20,,,,,pendente
